@@ -12,10 +12,9 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 <br><br>
-
-- :school: Junior Engineering student at `Universidad Tecnológica del Perú`..
+- :school: Junior Engineering student at `Universidad Tecnológica del Perú`.
 - :technologist: Passionate about using software to solve real-world problems.
-- :computer: Frontend & Backend developer using `React`, `TypeScript`, `PHP`, `Node.js`, and `Tailwind CSS`..
+- :computer: Frontend & Backend developer using `React`, `TypeScript`, `PHP`, `Node.js`, and `Tailwind CSS`.
 - :nerd_face: Constantly learning and improving my skills.
 - :thinking: Open to new job opportunities, .
 - :boom: You can visit [MY WEBSITE](https://mi-portafolio-rho-one.vercel.app/).
@@ -23,7 +22,8 @@
 
 
 
-## <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width="100px"> </picture> Connect with me
+<picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width="100px"> </picture> Connect with me
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 <p align="center">
 	<a href="mailto:codejohans@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
 	<a href="https://github.com/JohanDEVnet"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
