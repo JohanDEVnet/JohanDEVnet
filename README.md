@@ -45,6 +45,20 @@
   </a>
 </p>
 
+<div align="center">
+
+###  Always learning. Always building.
+#### Engineering systems.
+
+</div>
+<div align="center">
+  <img src="assets/matrix-cat.gif" width="300px" />
+</div>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+
+
+
+
 <!--
 **JohanDEVnet/JohanDEVnet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
