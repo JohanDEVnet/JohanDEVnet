@@ -14,12 +14,12 @@
 
 <br><br>
 
-- :school: I am a `Junior` at [Faculty of Engineering] at [Universidad Tecnologica del Peru].
-- :technologist: I love using Software as a solution for every `Problem`.
+- :school: I am a `Junior` at `Faculty of Engineering` at `Universidad Tecnologica del Peru`.
+- :technologist: I love using Software as a solution for every `Problema`.
 - :computer: I am a competitive programmer at `React`, `TypeScript`, `Php`, `Node.js`, `Tailwind`.
-- :nerd_face: Always `learning new things`.
-- :thinking: I’m currently open for a new `job opportunity`, .
-- :boom: You can visit [MY WEBSITE](https://mi-portafolio-rho-one.vercel.app/).
+- :nerd_face: Always `Siempre aprendiendo cosas nuevas`.
+- :thinking: I’m currently open for a new `oportunidad de trabajo`, .
+- :boom: You can visit `MY WEBSITE`(https://mi-portafolio-rho-one.vercel.app/).
 <br>
 
 
