@@ -14,12 +14,12 @@
 
 <br><br>
 
-- :school: I am a `Junior` at `Faculty of Engineering` at `Universidad Tecnologica del Peru`.
-- :technologist: I love using Software as a solution for every `Problema`.
-- :computer: I am a competitive programmer at `React`, `TypeScript`, `Php`, `Node.js`, `Tailwind`.
-- :nerd_face: Always `Siempre aprendiendo cosas nuevas`.
-- :thinking: I’m currently open for a new `oportunidad de trabajo`, .
-- :boom: You can visit `MY WEBSITE`(https://mi-portafolio-rho-one.vercel.app/).
+- :school: Junior Engineering student at `Universidad Tecnológica del Perú`..
+- :technologist: Passionate about using software to solve real-world problems.
+- :computer: Frontend & Backend developer using `React`, `TypeScript`, `PHP`, `Node.js`, and `Tailwind CSS`..
+- :nerd_face: Constantly learning and improving my skills.
+- :thinking: Open to new job opportunities, .
+- :boom: You can visit [MY WEBSITE](https://mi-portafolio-rho-one.vercel.app/).
 <br>
 
 
